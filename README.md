@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/wisdommen/wisdommen/blob/master/imgs/20230911012210.png?raw=true"/>
+  <img src="https://github.com/wisdommen/wisdommen/blob/master/imgs/wisdommen.png?raw=true"/>
   <br/>
 </div>
 
