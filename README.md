@@ -1,6 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/wisdommen)
-
-
 ### Come and check out my library for Minecraft plugin development.
 
 ### This will be a new way of developing a Minecraft server plugin. 
