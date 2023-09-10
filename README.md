@@ -1,11 +1,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/wisdommen)
 
 
-## Come and check out my library for Minecraft plugin development.
+### Come and check out my library for Minecraft plugin development.
 
-## This will be a new way of developing a Minecraft server plugin. 
+### This will be a new way of developing a Minecraft server plugin. 
 
-## Morden and Easy to use. Encharged by the power of Annotation and much more!
+### Morden and Easy to use. Encharged by the power of Annotation and much more!
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wisdommen&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/wisdommen/wisdommen)
