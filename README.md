@@ -1,8 +1,4 @@
-### Come and check out my library for Minecraft plugin development.
-
-### This will be a new way of developing a Minecraft server plugin. 
-
-### Morden and Easy to use. Encharged by the power of Annotation and much more!
+### Come and check out my library for Minecraft plugin development. Encharged by the power of Annotation and much more!
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ultikits&repo=UltiTools-Reborn)](https://github.com/UltiKits/UltiTools-Reborn)
 
