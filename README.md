@@ -1,4 +1,4 @@
-## What I am working on 🖊
+## What I am working on 🧑‍💻
 
 **Come and check out my library for Minecraft plugin development.**
 
@@ -11,6 +11,12 @@
 
 ## Something about me 🐍
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wisdommen&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/wisdommen/wisdommen)
+📚 Studying at the University of Melbourne. 
+
+☕ Mostly focused on Java development. 
+
+💕 Dreaming for a better future (and a partner).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdommen&layout=compact&theme=material-palenight)](https://github.com/wisdommen/wisdommen)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wisdommen&count_private=true&show_icons=true&theme=material-palenight)](https://github.com/wisdommen/wisdommen)
+
