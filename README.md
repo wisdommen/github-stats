@@ -30,7 +30,7 @@
 
 ## Something about me 🐍
 
-📚 Studying at the University of Melbourne. 
+📚 Graduated from the University of Melbourne. 
 
 ☕ Mostly focused on Java development. 
 
